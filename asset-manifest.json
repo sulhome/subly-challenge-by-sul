@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/subly-challenge-by-sul/static/css/main.e256fc10.css",
+    "main.js": "/subly-challenge-by-sul/static/js/main.159f23f6.js",
+    "static/media/bootstrap-icons.woff?": "/subly-challenge-by-sul/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/subly-challenge-by-sul/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/dancing-script-latin-400-normal.woff": "/subly-challenge-by-sul/static/media/dancing-script-latin-400-normal.a5ce473263c516dc070e.woff",
+    "static/media/dancing-script-latin-400-normal.woff2": "/subly-challenge-by-sul/static/media/dancing-script-latin-400-normal.b3f0ff28f420da0283fc.woff2",
+    "static/media/dancing-script-latin-ext-400-normal.woff": "/subly-challenge-by-sul/static/media/dancing-script-latin-ext-400-normal.87ae00f06aafc5c964ba.woff",
+    "static/media/dancing-script-latin-ext-400-normal.woff2": "/subly-challenge-by-sul/static/media/dancing-script-latin-ext-400-normal.01bd5f7f506a07d5a59f.woff2",
+    "static/media/dancing-script-vietnamese-400-normal.woff": "/subly-challenge-by-sul/static/media/dancing-script-vietnamese-400-normal.581d33ad885c19d66017.woff",
+    "static/media/dancing-script-vietnamese-400-normal.woff2": "/subly-challenge-by-sul/static/media/dancing-script-vietnamese-400-normal.389f8b05090f0e471f76.woff2",
+    "index.html": "/subly-challenge-by-sul/index.html",
+    "main.e256fc10.css.map": "/subly-challenge-by-sul/static/css/main.e256fc10.css.map",
+    "main.159f23f6.js.map": "/subly-challenge-by-sul/static/js/main.159f23f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e256fc10.css",
+    "static/js/main.159f23f6.js"
+  ]
+}
